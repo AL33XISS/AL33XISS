@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Alexis Salsamendi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Alexis <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cf0808&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer"></a>
 </p>

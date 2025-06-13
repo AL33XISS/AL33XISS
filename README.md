@@ -34,6 +34,6 @@
 
 ## ⚙️ GitHub Analytics
 <p>
-  <a href="https://github.com/Adityakanoi2001">
+  <a>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AL33XISS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>

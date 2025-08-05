@@ -31,9 +31,3 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-## ⚙️ GitHub Analytics
-<p>
-  <a>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AL33XISS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>

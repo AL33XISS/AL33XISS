@@ -7,7 +7,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- :school: I am a third year Systems Engineering student at the [University of Engineering in Uruguay](https://www.fing.edu.uy/).
+- :school: I am a third year Systems Engineering student at the [Facultad de Ingeniería, Uruguay](https://www.fing.edu.uy/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: Focus on `FrontEnd Developer`.
 - :student:  I’m currently learning `Computer Science` and `Systems Engineering`.
